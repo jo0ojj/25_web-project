@@ -4,7 +4,7 @@ import {
   Server,
   ShieldCheck,
   Gauge,
-} from 'lnclu-react';
+} from 'lucide-react';
 
 export type Service = {
   id: string;
